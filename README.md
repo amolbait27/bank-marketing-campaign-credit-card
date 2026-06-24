@@ -1,4 +1,4 @@
-**Bank Marketing Campaign: Credit Card Cross-Sell (SQL Project)**
+# Bank Marketing Campaign: Credit Card Cross-Sell (SQL Project)
 
 Hi! Welcome to my SQL portfolio project.
 
