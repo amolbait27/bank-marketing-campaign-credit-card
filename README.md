@@ -1,4 +1,5 @@
 **Bank Marketing Campaign: Credit Card Cross-Sell (SQL Project)**
+
 Hi! Welcome to my SQL portfolio project.
 
 I am currently learning Data Analytics, and I wanted to work on a dataset that felt like a real business problem. For this project, I analyzed a dataset of over 245,000 customer records from a bank's marketing campaign. My goal was to use SQL to figure out what made the campaign successful, where the bank wasted money, and how they could improve their targeting for the next round.
