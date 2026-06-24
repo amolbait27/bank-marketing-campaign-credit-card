@@ -39,7 +39,7 @@ The Data: The data showed that this 'Unknown' group actually had an 85.17% conve
 
 The Finding: I used a CASE WHEN statement to create a basic Lead Scoring Model that ranks customers from P1 (Best) to P4 (Worst).
 
-The Data: * P1: Ultimate Target (Entrepreneur + Self Employed): 84.10% success rate.
+The Data: P1: Ultimate Target (Entrepreneur + Self Employed): 84.10% success rate.
 
 P2: High Priority (Already have credit + Reached via good channels like X2/X3): 38.59% success rate.
 
